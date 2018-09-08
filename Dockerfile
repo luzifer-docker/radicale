@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV RADICALE_VERSION=2.1.9
+ENV RADICALE_VERSION=2.1.10
 
 RUN set -ex \
  && apk --no-cache add \
